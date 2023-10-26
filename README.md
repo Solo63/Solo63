@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solo63
+- 👋 Hi, I’m 
 - 👀 I’m interested in making a game called pet adventures
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on making a roblox game
